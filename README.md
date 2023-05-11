@@ -24,3 +24,15 @@
 
 ![applivelo](https://github.com/rmaupoux/applivelo/assets/118294447/8e5533af-a5ea-4cdc-adb5-1391e6e44b78)
 
+## IV Exemple de course : 4ème étape du VTT Tour 2023 Dimanche 14 mai 2023
+4 tours (H. Espoirs, Séniors et Vétérans), 3 tours (Dames : Juniores, Séniores et
+Vétéranes A ; Hommes : Juniors, Masters 1 et Masters 2 + Tandems) , 2 tours
+(Cadets G et F + Féminines Vétéranes B) ou 1 tour (Minimes G et F) selon les âges
+### Détail sur les catégories
+
+Hommes : Minimes (2009-2010), Cadets (2007-2008), Juniors (2005-2006), Espoirs
+(2001-2004), Séniors (1984-2000), Vétérans (1974-1983), Masters 1 (1964-1973),
+Masters 2 (1963 et avant).
+Dames : Minimes, Cadettes, Juniores (id. que G.), Séniores (incluant les Espoires :
+1984-2004), Vétéranes A (1974-1983) et Vétéranes B (1973 et avant).
+

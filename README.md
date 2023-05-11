@@ -35,4 +35,6 @@ Hommes : Minimes (2009-2010), Cadets (2007-2008), Juniors (2005-2006), Espoirs
 Masters 2 (1963 et avant).
 Dames : Minimes, Cadettes, Juniores (id. que G.), Séniores (incluant les Espoires :
 1984-2004), Vétéranes A (1974-1983) et Vétéranes B (1973 et avant).
+Tandems (mixtes ou non)
+
 

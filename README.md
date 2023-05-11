@@ -21,3 +21,6 @@
 - L'application doit pouvoir être utilisée hors ligne pour éviter les problèmes de connexion.
 - L'application doit être capable de gérer un grand nombre de coureurs (jusqu'à 300) répartis en différentes catégories avec un nombre de tours spécifique pour chaque catégorie.
 - L'application doit être capable de fournir un classement en fin de course et de stocker ces informations en base de données.
+
+![applivelo](https://github.com/rmaupoux/applivelo/assets/118294447/8e5533af-a5ea-4cdc-adb5-1391e6e44b78)
+

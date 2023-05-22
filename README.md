@@ -6,7 +6,7 @@
 
 - **Objectif**: 
 ``` 
-Développer une application à destination des officiel amateurs cyclistes pour ** classer les coureurs d'une course de vélo** en fonction de leur catégorie.
+Développer une application à destination des officiel amateurs cyclistes pour classer les coureurs d'une course de vélo en fonction de leur catégorie.
 Cette application devra pouvoir importer un fichier Excel des inscris au préalable
 ```
 

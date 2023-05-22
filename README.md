@@ -2,7 +2,7 @@
 
 ## I. Introduction
 
-- **Contexte**: Dans le secteur du cyclisme amateur des course de route, cyclo cross et VTT sont organisés chaque week end. Trois fédérations sont concernées: FSGT, FFC et Ufolep. Jusqu’à présent ces courses nécessitent de nombreux bénévoles pour prendre les inscriptions (souvent par courrier), organiser une liste de départ et au moment de la course, chronométrer et définir les classements par catégories. L’idée serait de simplifier le travail des bénévoles et d’accélérer le temps de traitement des informations. Certaines courses vont utiliser les puces pour le comptage mais cela reste minoritaire car extrêmement onéreux, coûteux en matériel et nécessite également la présence d’un expert indépendant pendant toute une journée.
+- **Contexte**: Dans le secteur du cyclisme amateur des course de route, cyclo cross et VTT sont organisés chaque week end. Trois fédérations sont concernées: FSGT, FFC et Ufolep. Jusqu’à présent ces courses nécessitent de nombreux bénévoles pour prendre les inscriptions (souvent par courrier), organiser une liste de départ et au moment de la course, chronométrer et définir les classements par catégories. L’idée serait de simplifier le travail des bénévoles et d’accélérer le temps de traitement des informations. Certaines courses vont utiliser les puces pour le comptage mais cela reste minoritaire car extrêmement onéreux, coûteux en matériel et nécessite également la présence d’un expert indépendant pendant toute une journée. Il s'agit donc de mettre en place un solution simple pour faciliter l'analyse du classement final.
 
 - **Objectif**: 
 ``` 

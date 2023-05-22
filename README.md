@@ -1,20 +1,27 @@
 # Application pour compter les coureurs de course de vélo
 
 ## I. Introduction
-- **Objectif**: Développer une application pour compter les coureurs de course de vélo par catégorie et nombre de tours, permettant une inscription en ligne avant la course et permettant pendant la course à l'utilisateur de modifier des numéros mal saisis, d'en ajouter ou d'en supprimer. L'application doit également permettre à l'utilisateur de définir les nombres de tours attribués pour chaque catégorie, d'identifier les coureurs de même catégorie ayant deux tours de retard et de fournir un classement par catégorie en fin de course.
+
 - **Contexte**: Dans le secteur du cyclisme amateur des course de route, cyclo cross et VTT sont organisés chaque week end. Trois fédérations sont concernées: FSGT, FFC et Ufolep. Jusqu’à présent ces courses nécessitent de nombreux bénévoles pour prendre les inscriptions (souvent par courrier), organiser une liste de départ et au moment de la course, chronométrer et définir les classements par catégories. L’idée serait de simplifier le travail des bénévoles et d’accélérer le temps de traitement des informations. Certaines courses vont utiliser les puces pour le comptage mais cela reste minoritaire car extrêmement onéreux, coûteux en matériel et nécessite également la présence d’un expert indépendant pendant toute une journée.
 
+- **Objectif**: Développer une application à destination des officiel amateurs cyclistes pour compter les coureurs de course de vélo par catégorie et nombre de tours, permettant une inscription en ligne avant la course et permettant pendant la course à l'utilisateur de modifier des numéros mal saisis, d'en ajouter ou d'en supprimer. L'application doit également permettre à l'utilisateur de définir les nombres de tours attribués pour chaque catégorie, d'identifier les coureurs de même catégorie ayant deux tours de retard et de fournir un classement par catégorie en fin de course. Certaines catégories ont 4 tours alors que d'autres 2 voir partie IV
+- 
 ## II. Fonctionnalités de l'application
-1. Inscription des coureurs
-- Permettre aux coureurs de s'inscrire en ligne avant la course, en fournissant leur nom, prénom, date de naissance, numéro de téléphone, adresse e-mail, catégorie de course et nombre de tours.
-2. Paramétrage des courses
-- Permettre à l'utilisateur de définir les nombres de tours attribués pour chaque catégorie.
-3. Comptage pendant la course
-- Pour les officiels de compter le nombre de coureurs passant par un point de contrôle en temps réel, par catégorie et par nombre de tours.
+### 1. Inscription des coureurs
+- Permettre aux officiels de télécharger la liste des engagés réalisée sur Excel, et aussi de pouvoir modifier cette liste,
+ajout suppression de coureurs : pour permettre aux retardataires non inscris le jour de la course de pouvoir quand même récupérer un dossard
+- Permettre de paramètrer la course: modification des catégories, application d'un certain nombre de tour par catégorie
+Liste actuelle 
+![IMG_20230518_093031](https://github.com/rmaupoux/applivelo/assets/118294447/9af3e363-e6e8-4fe5-8279-c515757c05d7)
+
+
+### 2. Comptage pendant la course
+- A partir de la liste obtenue à l'étape 1 l'appli devra permettre aux officiels de rentrer les numéros de dossard des coureurs passant par un point de contrôle.
 - Afficher le nombre total de coureurs ayant terminé la course par catégorie et par nombre de tours.
-- Permettre à l'utilisateur de modifier des numéros mal saisis, d'en ajouter ou d'en supprimer pendant la course.
-- Identifier les coureurs de même catégorie ayant deux tours de retard, dans ce cas leur course est terminée.
+- Permettre à l'utilisateur de modifier des numéros mal saisis, d'en ajouter ou d'en supprimer pendant la course. (En option)
+- Identifier les coureurs de même catégorie ayant deux tours de retard, dans ce cas leur course est terminée. 
 - Fournir un classement par catégorie en fin de course.
+- Renvoyer un document Excel avec le classement (En option)
 
 ## III. Exigences fonctionnelles
 - L'application doit être facile à utiliser et intuitive pour les organisateurs de la course et pour les coureurs.

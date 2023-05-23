@@ -2,7 +2,7 @@
 
 ## I. Introduction
 
-- **Contexte**: Dans le secteur du cyclisme amateur des course de route, cyclo cross et VTT sont organisés chaque week end. Trois fédérations sont concernées: FSGT, FFC et Ufolep. Jusqu’à présent ces courses nécessitent de nombreux bénévoles pour prendre les inscriptions (souvent par courrier), organiser une liste de départ et au moment de la course, chronométrer et définir les classements par catégories. L’idée serait de simplifier le travail des bénévoles et d’accélérer le temps de traitement des informations. Certaines courses vont utiliser les puces pour le comptage mais cela reste minoritaire car extrêmement onéreux, coûteux en matériel et nécessite également la présence d’un expert indépendant pendant toute une journée. Il s'agit donc de mettre en place un solution simple pour faciliter l'analyse du classement final.
+- **Contexte**: Dans le secteur du cyclisme amateur des courses de route, cyclo cross et VTT sont organisés chaque week end. Trois fédérations sont concernées: FSGT, FFC et Ufolep. Jusqu’à présent ces courses nécessitent de nombreux bénévoles pour prendre les inscriptions (souvent par courrier), organiser une liste de départ et au moment de la course, chronométrer et définir les classements par catégories. L’idée serait de simplifier le travail des bénévoles et d’accélérer le temps de traitement des informations en réalisant une Webapp adaptée.
 
 - **Objectif**: 
 ``` 
@@ -11,14 +11,14 @@ Cette application devra pouvoir importer un fichier Excel des inscris au préala
 ```
 
 L'application doit également permettre à l'utilisateur de définir les nombres de tours attribués pour chaque catégorie, 
-d'identifier les coureurs de même catégorie ayant deux tours de  retard et de fournir un classement par catégorie 
-en fin de course. Certaines catégories ont 4 tours alors que d'autres 2 voir l'exemple ci-dessous 
+d'identifier les coureurs de même catégorie ayant deux tours de retard (en option) et de fournir un classement par catégorie 
+en fin de course. Certaines catégories ont 4 tours alors que d'autres 2 voir l'exemple ci-dessous IV
 
 
 ## II. Fonctionnalités de l'application
 ### 1. Inscription des coureurs
-- Permettre aux officiels de télécharger la liste des engagés réalisée sur Excel, et aussi de pouvoir modifier cette liste,
-ajout suppression de coureurs : pour permettre aux retardataires non inscris le jour de la course de pouvoir quand même récupérer un dossard
+- Permettre aux officiels de télécharger la liste des engagés fournie au format Excel (voir ci dessous), et aussi de pouvoir modifier cette liste,
+d'ajouter/supprimer des coureurs : pour permettre aux retardataires non inscris le jour de la course de pouvoir quand même récupérer un dossard
 - Permettre de paramètrer la course: modification des catégories, application d'un certain nombre de tour par catégorie
 Liste actuelle 
 ![IMG_20230518_093031](https://github.com/rmaupoux/applivelo/assets/118294447/9af3e363-e6e8-4fe5-8279-c515757c05d7)
@@ -41,7 +41,7 @@ Liste actuelle
 
 ![applivelo](https://github.com/rmaupoux/applivelo/assets/118294447/8e5533af-a5ea-4cdc-adb5-1391e6e44b78)
 
-## Exemple de course : 4ème étape du VTT Tour 2023 Dimanche 14 mai 2023
+## IV Exemple de course : 4ème étape du VTT Tour 2023 Dimanche 14 mai 2023
 4 tours (H. Espoirs, Séniors et Vétérans), 3 tours (Dames : Juniores, Séniores et
 Vétéranes A ; Hommes : Juniors, Masters 1 et Masters 2 + Tandems) , 2 tours
 (Cadets G et F + Féminines Vétéranes B) ou 1 tour (Minimes G et F) selon les âges

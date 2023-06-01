@@ -5,14 +5,23 @@
 - **Contexte**: Dans le secteur du cyclisme amateur des courses de route, cyclo cross et VTT sont organisés chaque week end. Trois fédérations sont concernées: FSGT, FFC et Ufolep. Jusqu’à présent ces courses nécessitent de nombreux bénévoles pour prendre les inscriptions (souvent par courrier), organiser une liste de départ et au moment de la course, chronométrer et définir les classements par catégories. L’idée serait de simplifier le travail des bénévoles et d’accélérer le temps de traitement des informations en réalisant une Webapp adaptée.
 
 - **Objectif**: 
-``` 
 Développer une application à destination des officiel amateurs cyclistes pour classer les coureurs d'une course de vélo en fonction de leur catégorie.
 Cette application devra pouvoir importer un fichier Excel des inscris au préalable
-```
 
 L'application doit également permettre à l'utilisateur de définir les nombres de tours attribués pour chaque catégorie, 
 d'identifier les coureurs de même catégorie ayant deux tours de retard (en option) et de fournir un classement par catégorie 
 en fin de course. Certaines catégories ont 4 tours alors que d'autres 2 voir l'exemple ci-dessous IV
+
+### 1. Qu'est ce qu'une course de vélo?
+Sur un circuit fermé de x km, des coureurs doivent effectuer un certain nombre de tours selon leurs catégories.
+Les trois premières arrivés se voient récompensés et montent sur le podium. Les circuits et nombre de tours varient à chaque événements.
+Ces événements durent entre 1h30 et 2h00. 
+Les coureurs effectuent tous le même parcours. Seul le nombre de tour diffère. L'ordre de départ varie selon les catégories. Les plus rapides partent souvent en premier.
+Les plus lent (tandem par exemple) en dernier. Il 
+### 2. Pour qui s'adresse cette application ?
+Les bénévoles des clubs organisateurs qui receptionnent les engagements en ligne ou par courrier.
+Les bénévoles qui font les traces de la course et définicent les nombres de tours. 
+Les bénévoles qui prennent les temps et restituent les résultats
 
 
 ## II. Fonctionnalités de l'application
